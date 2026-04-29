@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.garagedesk.garage_desk",
+      "sha256_cert_fingerprints": [
+        "F7:9D:87:BA:55:B7:81:47:D0:25:12:63:F0:2D:4F:77:25:98:CF:6B:17:53:14:2F:03:3D:30:5C:41:C3:63:3E"
+      ]
+    }
+  }
+]
